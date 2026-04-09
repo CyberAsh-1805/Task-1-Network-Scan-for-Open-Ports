@@ -3,10 +3,10 @@
 - Local ip range is 172.20.10.0/28
 - Ip Address 1 (172.20.10.1)
 - open ports:-
-21/tcp - ftp,
-53/tcp - Dns,
-49152/tcp - unknown,
-62078/tcp - iphone sync.
+    21/tcp - ftp,
+    53/tcp - Dns,
+    49152/tcp - unknown,
+    62078/tcp - iphone sync.
 - Ip Address 2 (172.20.10.11)
 - open ports:-
 135/tcp - msrpc,
